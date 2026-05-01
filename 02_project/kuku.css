@@ -1,0 +1,15 @@
+.container{
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 20px;
+    background-color: gray;
+    
+}
+h1{
+ color: rgb(27, 5, 11);
+}
+button{
+    font-size: 20px;
+    background-color: brown;
+    border-radius: 5px;
+}
