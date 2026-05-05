@@ -1,0 +1,18 @@
+*{
+    background-color: rgba(5, 8, 24, 0.737);
+    color: azure;
+     justify-content: center;
+     align-items: center;
+    
+}
+#subt{
+    background-color: palevioletred;
+    color: white;
+}
+#wrapper{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    display: inline;
+    
+}
